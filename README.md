@@ -10,3 +10,4 @@ During a C programming internship, students work on basic to intermediate-level 
 
 OUTPUT
 [task 2.txt](https://github.com/user-attachments/files/21050453/task.2.txt)
+[task 1.txt](https://github.com/user-attachments/files/21050431/task.1.txt)
